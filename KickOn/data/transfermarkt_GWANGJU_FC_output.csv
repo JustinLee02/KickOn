@@ -1,38 +1,38 @@
-Player,Birth,Market Value,Citizenship,Foot,Contract,Joined
-Kyeong-min Kim,"Nov 1, 1991 (33)",€450k,"Korea, South",N/A,-,"Jan 9, 2022"
-Hee-dong Roh,"Jun 3, 2002 (22)",€75k,"Korea, South",N/A,-,"Jan 18, 2022"
-Tae-joon Kim,"Jul 8, 2001 (23)",€50k,"Korea, South",N/A,-,"Feb 16, 2023"
-Dong-hwa Kim,"May 7, 2003 (21)",N/A,"Korea, South",N/A,-,"Jan 17, 2025"
-Jun-soo Byeon,"Nov 30, 2001 (23)",€350k,"Korea, South",right,-,"Jan 18, 2024"
-Sang-gi Min,"Aug 27, 1991 (33)",€325k,"Korea, South",left,-,"Jan 17, 2025"
-Young-kyu Ahn,"Dec 4, 1989 (35)",€275k,"Korea, South",right,-,"Jan 6, 2022"
-Sung-gwon Cho,"Feb 24, 2001 (24)",€175k,"Korea, South",right,"Dec 31, 2025","Jan 1, 2023"
-Bruno Oliveira,"Jun 9, 1996 (28)",€100k,Brazil,left,-,"Feb 22, 2024"
-Sung-hoon Kwak,"Jun 18, 2006 (18)",N/A,"Korea, South",N/A,"Dec 31, 2025","Feb 12, 2025"
-Si-woo Jin,"Aug 5, 2002 (22)",N/A,"Korea, South",N/A,"Dec 31, 2025","Jan 30, 2025"
-Min-ki Lee,"May 19, 1993 (31)",€350k,"Korea, South",right,-,"Jan 1, 2016"
-Jin-ho Kim,"Jan 21, 2000 (25)",€400k,"Korea, South",right,"Dec 31, 2026","Jan 23, 2024"
-Kang-hyun Lee,"Jul 31, 1998 (26)",€250k,"Korea, South",right,"Dec 31, 2025","Feb 14, 2023"
-Se-jong Ju,"Oct 30, 1990 (34)",€325k,"Korea, South",right,-,"Feb 28, 2025"
-Tae-joon Park,"Jan 19, 1999 (26)",€300k,"Korea, South",right,-,"Jan 4, 2024"
-Min-seo Moon,"Feb 18, 2004 (21)",€250k,"Korea, South",right,"Dec 31, 2026","Jan 8, 2024"
-Je-ho Yu,"Aug 15, 2000 (24)",€225k,"Korea, South",right,-,"Jan 28, 2025"
-Hui-su Kang,"Feb 25, 2003 (22)",N/A,"Korea, South",N/A,-,"Jan 17, 2025"
-Reis,"Jan 6, 1993 (32)",€650k,Brazil,right,-,"Jan 17, 2025"
-Kyoung-rok Choi,"Mar 15, 1995 (30)",€550k,"Korea, South",left,-,"Jan 15, 2024"
-Jeong-in Park,"Oct 7, 2000 (24)",€300k,"Korea, South",right,"Dec 31, 2026","Jan 17, 2025"
-Ji-hoon Jeong,"Apr 9, 2004 (20)",€150k,"Korea, South",right,"Dec 31, 2027","Jan 1, 2023"
-Hu-seong Oh,"Aug 25, 1999 (25)",€125k,"Korea, South",N/A,-,"Mar 21, 2023"
-Yong-jun Hong,"Mar 26, 2003 (21)",N/A,"Korea, South",left,-,"Feb 9, 2025"
-Sung-yun Kwon,"Mar 30, 2001 (23)",€200k,"Korea, South",N/A,-,"Jan 17, 2025"
-Seung-un Ha,"May 4, 1998 (26)",€150k,"Korea, South",N/A,-,"Jan 10, 2022"
-Hyeok-joo An,"Sep 3, 2004 (20)",€125k,"Korea, South",N/A,-,"Jan 1, 2024"
-Jasir Asani,"May 19, 1995 (29)",€1.20m,"Albania
-  North Macedonia",left,"Dec 31, 2025","Jan 1, 2023"
-Han-gil Kim,"Jun 21, 1995 (29)",€275k,"Korea, South",left,"Dec 31, 2025","Feb 23, 2023"
-Jae-hwan Hwang,"Apr 12, 2001 (23)",€100k,"Korea, South",N/A,-,"Jan 29, 2025"
-Gabriel Tigrão,"Oct 13, 2001 (23)",€325k,Brazil,both,-,"Jan 9, 2024"
-In-hyeok Park,"Dec 29, 1995 (29)",€200k,"Korea, South",right,-,"Jan 17, 2025"
-Chang-moo Shin,"Sep 17, 1992 (32)",€125k,"Korea, South",left,"Dec 31, 2026","Jan 1, 2023"
-Jae-hwan Lee,"Dec 15, 2006 (18)",N/A,"Korea, South",N/A,-,"Jan 17, 2025"
-Yun-ho Kim,"May 13, 2007 (17)",N/A,"Korea, South",right,-,"Jul 31, 2024"
+Player,Birth,Market Value,Citizenship,Foot,Contract,Joined,Transfer
+Kyeong-min Kim,"Nov 1, 1991 (33)",€450k,"Korea, South",N/A,-,"Jan 9, 2022",0
+Hee-dong Roh,"Jun 3, 2002 (22)",€75k,"Korea, South",N/A,-,"Jan 18, 2022",0
+Tae-joon Kim,"Jul 8, 2001 (23)",€50k,"Korea, South",N/A,-,"Feb 16, 2023",0
+Dong-hwa Kim,"May 7, 2003 (21)",N/A,"Korea, South",N/A,-,"Jan 17, 2025",0
+Jun-soo Byeon,"Nov 30, 2001 (23)",€350k,"Korea, South",right,-,"Jan 18, 2024",1
+Sang-gi Min,"Aug 27, 1991 (33)",€325k,"Korea, South",left,-,"Jan 17, 2025",0
+Young-kyu Ahn,"Dec 4, 1989 (35)",€275k,"Korea, South",right,-,"Jan 6, 2022",0
+Sung-gwon Cho,"Feb 24, 2001 (24)",€175k,"Korea, South",right,"Dec 31, 2025","Jan 1, 2023",0
+Bruno Oliveira,"Jun 9, 1996 (28)",€100k,Brazil,left,-,"Feb 22, 2024",1
+Sung-hoon Kwak,"Jun 18, 2006 (18)",N/A,"Korea, South",N/A,"Dec 31, 2025","Feb 12, 2025",0
+Si-woo Jin,"Aug 5, 2002 (22)",N/A,"Korea, South",N/A,"Dec 31, 2025","Jan 30, 2025",0
+Min-ki Lee,"May 19, 1993 (31)",€350k,"Korea, South",right,-,"Jan 1, 2016",0
+Jin-ho Kim,"Jan 21, 2000 (25)",€400k,"Korea, South",right,"Dec 31, 2026","Jan 23, 2024",1
+Kang-hyun Lee,"Jul 31, 1998 (26)",€250k,"Korea, South",right,"Dec 31, 2025","Feb 14, 2023",0
+Se-jong Ju,"Oct 30, 1990 (34)",€325k,"Korea, South",right,-,"Feb 28, 2025",0
+Tae-joon Park,"Jan 19, 1999 (26)",€300k,"Korea, South",right,-,"Jan 4, 2024",0
+Min-seo Moon,"Feb 18, 2004 (21)",€250k,"Korea, South",right,"Dec 31, 2026","Jan 8, 2024",0
+Je-ho Yu,"Aug 15, 2000 (24)",€225k,"Korea, South",right,-,"Jan 28, 2025",0
+Hui-su Kang,"Feb 25, 2003 (22)",N/A,"Korea, South",N/A,-,"Jan 17, 2025",0
+Reis,"Jan 6, 1993 (32)",€650k,Brazil,right,-,"Jan 17, 2025",0
+Kyoung-rok Choi,"Mar 15, 1995 (30)",€550k,"Korea, South",left,-,"Jan 15, 2024",0
+Jeong-in Park,"Oct 7, 2000 (24)",€300k,"Korea, South",right,"Dec 31, 2026","Jan 17, 2025",0
+Ji-hoon Jeong,"Apr 9, 2004 (20)",€150k,"Korea, South",right,"Dec 31, 2027","Jan 1, 2023",0
+Hu-seong Oh,"Aug 25, 1999 (25)",€125k,"Korea, South",N/A,-,"Mar 21, 2023",0
+Yong-jun Hong,"Mar 26, 2003 (21)",N/A,"Korea, South",left,-,"Feb 9, 2025",0
+Sung-yun Kwon,"Mar 30, 2001 (23)",€200k,"Korea, South",N/A,-,"Jan 17, 2025",0
+Seung-un Ha,"May 4, 1998 (26)",€150k,"Korea, South",N/A,-,"Jan 10, 2022",0
+Hyeok-joo An,"Sep 3, 2004 (20)",€125k,"Korea, South",N/A,-,"Jan 1, 2024",0
+Jasir Asani,"May 19, 1995 (29)",€1.20m,"Albania,
+  North Macedonia",left,"Dec 31, 2025","Jan 1, 2023",0
+Han-gil Kim,"Jun 21, 1995 (29)",€275k,"Korea, South",left,"Dec 31, 2025","Feb 23, 2023",0
+Jae-hwan Hwang,"Apr 12, 2001 (23)",€100k,"Korea, South",N/A,-,"Jan 29, 2025",0
+Gabriel Tigrão,"Oct 13, 2001 (23)",€325k,Brazil,both,-,"Jan 9, 2024",1
+In-hyeok Park,"Dec 29, 1995 (29)",€200k,"Korea, South",right,-,"Jan 17, 2025",0
+Chang-moo Shin,"Sep 17, 1992 (32)",€125k,"Korea, South",left,"Dec 31, 2026","Jan 1, 2023",0
+Jae-hwan Lee,"Dec 15, 2006 (18)",N/A,"Korea, South",N/A,-,"Jan 17, 2025",0
+Yun-ho Kim,"May 13, 2007 (17)",N/A,"Korea, South",right,-,"Jul 31, 2024",0
