@@ -1,37 +1,37 @@
-Player,Birth,Position,Market Value,Contract,Joined
-Ederson,27,Goalkeeper,€50.00m,N/A,N/A
-Zack Steffen,26,Goalkeeper,€6.00m,N/A,N/A
-Scott Carson,35,Goalkeeper,€300k,N/A,N/A
-James Trafford,18,Goalkeeper,N/A,N/A,N/A
-Rúben Dias,24,Defender - Centre-Back,€75.00m,N/A,N/A
-Aymeric Laporte,27,Defender - Centre-Back,€45.00m,N/A,N/A
-Nathan Aké,26,Defender - Centre-Back,€32.00m,N/A,N/A
-John Stones,27,Defender - Centre-Back,€30.00m,N/A,N/A
-Eric García,20,Defender - Centre-Back,€20.00m,N/A,N/A
-Nicolás Otamendi,33,Defender - Centre-Back,€8.00m,N/A,N/A
-Taylor Harwood-Bellis,19,Defender - Centre-Back,€3.00m,N/A,N/A
-Philippe Sandler,24,Defender - Centre-Back,€2.50m,N/A,N/A
-Luke Mbete,17,Defender - Centre-Back,N/A,N/A,N/A
-Oleksandr Zinchenko,24,Defender - Left-Back,€25.00m,N/A,N/A
-Benjamin Mendy,26,Defender - Left-Back,€20.00m,N/A,N/A
-João Cancelo,27,Defender - Right-Back,€55.00m,N/A,N/A
-Kyle Walker,31,Defender - Right-Back,€28.00m,N/A,N/A
-Rodri,25,Midfield - Defensive Midfield,€70.00m,N/A,N/A
-Fernandinho,36,Midfield - Defensive Midfield,€2.00m,N/A,N/A
-Claudio Gomes,20,Midfield - Defensive Midfield,€450k,N/A,N/A
-İlkay Gündoğan,30,Midfield - Central Midfield,€40.00m,N/A,N/A
-Adrián Bernabé,20,Midfield - Central Midfield,€2.30m,N/A,N/A
-Tommy Doyle,19,Midfield - Central Midfield,€1.00m,N/A,N/A
-Felix Nmecha,20,Midfield - Central Midfield,€450k,N/A,N/A
-Kevin De Bruyne,30,Midfield - Attacking Midfield,€100.00m,N/A,N/A
-Bernardo Silva,26,Midfield - Attacking Midfield,€70.00m,N/A,N/A
-Cole Palmer,19,Midfield - Attacking Midfield,€500k,N/A,N/A
-Raheem Sterling,26,Attack - Right Winger,€90.00m,N/A,N/A
-Phil Foden,21,Attack - Right Winger,€80.00m,N/A,N/A
-Ferran Torres,21,Attack - Right Winger,€50.00m,N/A,N/A
-Riyad Mahrez,30,Attack - Right Winger,€42.00m,N/A,N/A
-Jack Harrison,24,Attack - Right Winger,€15.00m,N/A,N/A
-Patrick Roberts,24,Attack - Right Winger,€2.00m,N/A,N/A
-Gabriel Jesus,24,Attack - Centre-Forward,€60.00m,N/A,N/A
-Sergio Agüero,33,Attack - Centre-Forward,€18.00m,N/A,N/A
-Liam Delap,18,Attack - Centre-Forward,€1.00m,N/A,N/A
+Player,Birth,Position,Market Value,Contract Expired,Joined, Appearance,Goals,Assists,Team Rank,Transfer
+Ederson,27,Goalkeeper,€50.00m,"Jun 30,2026" ,"Jul 1, 2017",48,0,0,1,0
+Zack Steffen,26,Goalkeeper,€6.00m,"Jan 31, 2024","Jul 9, 2019",12,0,0,1,0
+Scott Carson,35,Goalkeeper,€300k,N/A,N/A,"Jul 20, 2021","Jul 1, 2015",1,0,0,1,1
+***James Trafford,18,Goalkeeper,N/A,N/A,N/A
+Rúben Dias,24,Defender - Centre-Back,€75.00m,"Jun 30, 2027","Sep 29, 2020",53,2,0,1,1
+Aymeric Laporte,27,Defender - Centre-Back,€45.00m,"Jan 30, 2018","Jun 30, 2020",27,2,0,1,0
+Nathan Aké,26,Defender - Centre-Back,€32.00m,"Jun 30, 2027","Aug 5, 2020",13,1,0,1,0
+John Stones,27,Defender - Centre-Back,€30.00m,""Jun 30, 2026","Aug 9, 2016",35,5,0,1,0
+Eric García,20,Defender - Centre-Back,€20.00m,"Jun 30, 2021","Jul 1, 2019",12,0,0,1,1
+Nicolás Otamendi,33,Defender - Centre-Back,€8.00m,"Jun 30, 2022","Aug 20, 2015",38,1,0,1,1
+Taylor Harwood-Bellis,19,Defender - Centre-Back,€3.00m,"Jun 30, 2025","Jan 1, 2021",32,2,0,1,0
+Philippe Sandler,24,Defender - Centre-Back,€2.50m,"Jun 30, 2022","Jul 31, 2018",5,0,0,1,0
+***Luke Mbete,17,Defender - Centre-Back,N/A,N/A,N/A
+Oleksandr Zinchenko,24,Defender - Left-Back,€25.00m,"Jun 30, 2024","Jul 4, 2016",32,0,2,1,0
+Benjamin Mendy,26,Defender - Left-Back,€20.00m,"Jul 19, 2023","Jul 24, 2017",20,2,2,1,0
+João Cancelo,27,Defender - Right-Back,€55.00m,""Jun 30, 2027,"Aug 7, 2019",43,3,5,1,0
+Kyle Walker,31,Defender - Right-Back,€28.00m,"Jun 30, 2025","Jul 14, 2017",42,2,1,1,0
+Rodri,25,Midfield - Defensive Midfield,€70.00m,"Jun 30, 2027","Jul 4, 2019",53,2,5,1,0
+Fernandinho,36,Midfield - Defensive Midfield,€2.00m,"Jul 18, 2022","Jul 1, 2013",36,1,4,1,0
+***Claudio Gomes,20,Midfield - Defensive Midfield,€450k,N/A,N/A
+İlkay Gündoğan,30,Midfield - Central Midfield,€40.00m,"Jul 1, 2023","Jul 1, 2016",46,17,4,1,0
+***Adrián Bernabé,20,Midfield - Central Midfield,€2.30m,N/A,N/A
+***Tommy Doyle,19,Midfield - Central Midfield,€1.00m,N/A,N/A
+***Felix Nmecha,20,Midfield - Central Midfield,€450k,N/A,N/A
+Kevin De Bruyne,30,Midfield - Attacking Midfield,€100.00m,"Jun 30, 2025","Aug 30, 2015",40,10,18,1,0
+Bernardo Silva,26,Midfield - Attacking Midfield,€70.00m,"Jun 30, 2026","Jul 1, 2017",45,5,9,1,0
+***Cole Palmer,19,Midfield - Attacking Midfield,€500k,N/A,N/A
+Raheem Sterling,26,Attack - Right Winger,€90.00m,"Jun 30, 2023","Jul 14, 2015",49,14,10,1,0
+Phil Foden,21,Attack - Right Winger,€80.00m,"Jun 30, 2027","Jul 1, 2017",50,16,10,1,0
+Ferran Torres,21,Attack - Right Winger,€50.00m,"Jun 30, 2025","Aug 4, 2020",36,13,3,1,0
+Riyad Mahrez,30,Attack - Right Winger,€42.00m,"Jun 30, 2025","Jul 10, 2018",48,14,9,1,0
+Jack Harrison,24,Attack - Right Winger,€15.00m,"Jun 30, 2022","Jan 30, 2018",38,8,8,1,1
+Patrick Roberts,24,Attack - Right Winger,€2.00m,"Jan 21, 2022","Jul 19, 2015",25,1,1,1,0
+Gabriel Jesus,24,Attack - Centre-Forward,€60.00m,"Jun 30, 2023","Jan 1, 2017",42,14,4,1,0
+Sergio Agüero,33,Attack - Centre-Forward,€18.00m,"Dec 15 2021","Jul 28, 2011",20,6,1,1,1
+***Liam Delap,18,Attack - Centre-Forward,€1.00m,N/A,N/A
