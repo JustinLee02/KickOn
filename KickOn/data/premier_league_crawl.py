@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-def crawl_transfermarkt(url, team_name):
+def premier_crawl_transfermarkt(url, team_name):
 
     options = webdriver.ChromeOptions()
 
@@ -29,7 +29,7 @@ def crawl_transfermarkt(url, team_name):
             player_name = "N/A"
             player_birth = "N/A"
             position = "N/A"
-            team_name = "N/A"
+            # team_name = "N/A"
             appearance = "N/A"
             goals = "N/A"
             assists = "N/A"
@@ -38,10 +38,6 @@ def crawl_transfermarkt(url, team_name):
             joined_date = "N/A"
             contract_expires = "N/A"
             team_rank = "N/A"
-
-
-
-
 
             profile_url = None
             # (A) 선수 이름
@@ -94,30 +90,30 @@ def crawl_transfermarkt(url, team_name):
                         print("Position not find Error:", e)
 
                     # Joined date
-                    try:
-                        label_joined = driver.find_element(
-                            By.XPATH,
-                            "//span[@class='info-table__content info-table__content--regular' and contains(text(),'Joined:')]"
-                        )
-                        joined_span = label_joined.find_element(
-                            By.XPATH,
-                            "./following-sibling::span[@class='info-table__content info-table__content--bold']"
-                        )
-                        joined_date = joined_span.text.strip()
-                    except Exception as inner_e:
-                        print(f"Joined date not found for {player_name}: {inner_e}")
+                    # try:
+                    #     label_joined = driver.find_element(
+                    #         By.XPATH,
+                    #         "//span[@class='info-table__content info-table__content--regular' and contains(text(),'Joined:')]"
+                    #     )
+                    #     joined_span = label_joined.find_element(
+                    #         By.XPATH,
+                    #         "./following-sibling::span[@class='info-table__content info-table__content--bold']"
+                    #     )
+                    #     joined_date = joined_span.text.strip()
+                    # except Exception as inner_e:
+                    #     print(f"Joined date not found for {player_name}: {inner_e}")
 
                     # Contract Expires
-                    try:
-                        label_contract_expires = driver.find_element(
-                            By.XPATH,
-                             "//span[@class='info-table__content info-table__content--regular' and contains(text(),'Contract expires:')]")
-                        contract_span = label_contract_expires.find_element(
-                            By.XPATH,
-                            "./following-sibling::span[@class='info-table__content info-table__content--bold']")
-                        contract_expires = contract_span.text.strip()
-                    except Exception as inner_e:
-                        print(f"Contract expires not found for {player_name}: {inner_e}")
+                    # try:
+                    #     label_contract_expires = driver.find_element(
+                    #         By.XPATH,
+                    #          "//span[@class='info-table__content info-table__content--regular' and contains(text(),'Contract expires:')]")
+                    #     contract_span = label_contract_expires.find_element(
+                    #         By.XPATH,
+                    #         "./following-sibling::span[@class='info-table__content info-table__content--bold']")
+                    #     contract_expires = contract_span.text.strip()
+                    # except Exception as inner_e:
+                    #     print(f"Contract expires not found for {player_name}: {inner_e}")
 
                     driver.close()
                     driver.switch_to.window(original_window)
@@ -131,8 +127,8 @@ def crawl_transfermarkt(url, team_name):
 
             # CSV에 기록할 배열
             data.append([
-                season, player_name, player_birth, position, appearance, goals, assists, minutes_played, market_value,
-                joined_date, contract_expires, team_rank
+               player_name, player_birth, position, market_value,
+                joined_date, contract_expires
             ])
 
     finally:
@@ -142,7 +138,7 @@ def crawl_transfermarkt(url, team_name):
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         # 헤더 작성
-        writer.writerow(["Player", "Birth", "Market Value", "Citizenship", "Foot", "Contract", "Joined"])
+        writer.writerow(["Player", "Birth", "Position", "Market Value", "Contract", "Joined"])
         # 데이터 행 작성
         writer.writerows(data)
 
@@ -150,7 +146,7 @@ def crawl_transfermarkt(url, team_name):
 
 if __name__ == "__main__":
     url_info = {
-        "SEOUL_FC": "https://www.transfermarkt.com/fc-seoul/startseite/verein/6500/saison_id/2019"
+        "Manchester City": "https://www.transfermarkt.com/manchester-city/kader/verein/281/plus/0/galerie/0?saison_id=2020"
     }
     for team_name, url in url_info.items():
-        crawl_transfermarkt(url, team_name)
+        premier_crawl_transfermarkt(url, team_name)

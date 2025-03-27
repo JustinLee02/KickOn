@@ -28,7 +28,7 @@ def filter_year(input_file, output_file, cut_off):
     print(f"Filtered CSV saved as {output_file}")
 
 if __name__ == "__main__":
-    input_path = os.path.expanduser('~/Documents/GitHub/KickOn/KickOn/data/transfermarkt_ULSAN_HD_FC_output.csv')
+    input_path = os.path.expanduser('/data/ULSAN_HD_FC/transfermarkt_ULSAN_HD_FC_output.csv')
     output_path = 'filtered_ULSAN.csv'
 
     filter_year(input_path, output_path, datetime(2025, 1, 1))
