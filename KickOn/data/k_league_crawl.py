@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-def crawl_transfermarkt_seoul():
+def crawl_transfermarkt(url, team_name):
 
     options = webdriver.ChromeOptions()
 
@@ -16,7 +16,7 @@ def crawl_transfermarkt_seoul():
     data = []
 
     try:
-        url = "https://www.transfermarkt.com/daejeon-hana-citizen/startseite/verein/6499"
+        url = url
         driver.get(url)
         time.sleep(10)
 
@@ -25,13 +25,22 @@ def crawl_transfermarkt_seoul():
         rows = table.find_elements(By.CSS_SELECTOR, "tr.odd, tr.even")
 
         for row in rows:
+            season = "2020"
             player_name = "N/A"
             player_birth = "N/A"
-            citizenship = "N/A"
-            foot = "N/A"
-            contract_expires = "N/A"
-            joined_date = "N/A"
+            position = "N/A"
+            team_name = "N/A"
+            appearance = "N/A"
+            goals = "N/A"
+            assists = "N/A"
+            minutes_played = "N/A"
             market_value = "N/A"
+            joined_date = "N/A"
+            contract_expires = "N/A"
+            team_rank = "N/A"
+
+
+
 
 
             profile_url = None
@@ -57,6 +66,7 @@ def crawl_transfermarkt_seoul():
                 market_value = mv_td.text.strip()
             except:
                 pass
+
             if profile_url:
                 try:
                     # 현재 창(스쿼드 페이지) 식별
@@ -68,14 +78,20 @@ def crawl_transfermarkt_seoul():
                     driver.switch_to.window(driver.window_handles[-1])
                     time.sleep(3)
 
-                    # Citizenship
+                    # Position
                     try:
-                        label_citizenship = driver.find_element(By.XPATH,
-                                                                "//span[contains(text(),'Citizenship:') or contains(text(),'Nationalität:')]")
-                        cit_span = label_citizenship.find_element(By.XPATH, "./following-sibling::span")
-                        citizenship = cit_span.text.strip()
-                    except Exception as inner_e:
-                        print(f"Citizenship not found for {player_name}: {inner_e}")
+                        label_position = driver.find_element(
+                            By.XPATH,
+                            "//span[@class='info-table__content info-table__content--regular' and contains(text(), 'Position:')]",
+                        )
+                        position_span = label_position.find_element(
+                            By.XPATH,
+                            "./following-sibling::span[@class='info-table__content info-table__content--bold']"
+                        )
+                        position = position_span.text.strip()
+                        # print("Position:", position)
+                    except Exception as e:
+                        print("Position not find Error:", e)
 
                     # Joined date
                     try:
@@ -88,7 +104,6 @@ def crawl_transfermarkt_seoul():
                             "./following-sibling::span[@class='info-table__content info-table__content--bold']"
                         )
                         joined_date = joined_span.text.strip()
-                        print(joined_date)
                     except Exception as inner_e:
                         print(f"Joined date not found for {player_name}: {inner_e}")
 
@@ -104,15 +119,6 @@ def crawl_transfermarkt_seoul():
                     except Exception as inner_e:
                         print(f"Contract expires not found for {player_name}: {inner_e}")
 
-                    # Foot
-                    try:
-                        label_foot = driver.find_element(By.XPATH,
-                                                         "//span[contains(text(),'Foot:') or contains(text(),'Fuß:')]")
-                        foot_span = label_foot.find_element(By.XPATH, "./following-sibling::span")
-                        foot = foot_span.text.strip()
-                    except Exception as inner_e:
-                        print(f"Foot not found for {player_name}: {inner_e}")
-
                     driver.close()
                     driver.switch_to.window(original_window)
 
@@ -120,19 +126,19 @@ def crawl_transfermarkt_seoul():
                     print("Error navigating to player profile:", e)
 
                 # 출력 확인
-            print(f"Player: {player_name}, Birth: {player_birth}, Market Value: {market_value}, "
-                  f"Citizenship: {citizenship}, Foot: {foot}, Contract Expires: {contract_expires}, Joined: {joined_date}")
+            print(f"Player: {player_name}, Birth: {player_birth}, Position: {position}, Market Value: {market_value}, "
+                  f"Joined: {joined_date} , Contract Expires: {contract_expires} ")
 
             # CSV에 기록할 배열
             data.append([
-                player_name, player_birth, market_value,
-                citizenship, foot, contract_expires, joined_date
+                season, player_name, player_birth, position, appearance, goals, assists, minutes_played, market_value,
+                joined_date, contract_expires, team_rank
             ])
 
     finally:
         driver.quit()
 
-    output_file = "transfermarkt_seoul_output.csv"
+    output_file = f"transfermarkt_{team_name}_output.csv"
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         # 헤더 작성
@@ -143,4 +149,8 @@ def crawl_transfermarkt_seoul():
     print(f"CSV file saved as {output_file}")
 
 if __name__ == "__main__":
-    crawl_transfermarkt_seoul()
+    url_info = {
+        "SEOUL_FC": "https://www.transfermarkt.com/fc-seoul/startseite/verein/6500/saison_id/2019"
+    }
+    for team_name, url in url_info.items():
+        crawl_transfermarkt(url, team_name)

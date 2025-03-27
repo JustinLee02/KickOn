@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-def crawl_transfermarkt_seoul():
+def crawl_transfermarkt_daejeon():
 
     options = webdriver.ChromeOptions()
 
@@ -132,7 +132,7 @@ def crawl_transfermarkt_seoul():
     finally:
         driver.quit()
 
-    output_file = "transfermarkt_seoul_output.csv"
+    output_file = "transfermarkt_daejeon_output.csv"
     with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         # 헤더 작성
@@ -143,4 +143,4 @@ def crawl_transfermarkt_seoul():
     print(f"CSV file saved as {output_file}")
 
 if __name__ == "__main__":
-    crawl_transfermarkt_seoul()
+    crawl_transfermarkt_daejeon()
