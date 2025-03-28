@@ -1,0 +1,40 @@
+Player,Birth,Position,Market Value,Contract Expired,Joined,Appearance,Goals,Assists,Team Rank,Transfer
+Edouard Mendy,"Mar 1, 1992 (29)",Goalkeeper,€25.00m,"Jun 30, 2023","Sep 24, 2020",45,0,0,4,0
+Kepa Arrizabalaga,"Oct 3, 1994 (26)",Goalkeeper,€13.00m,"Jun 30, 2025","Aug 8, 2018",14,0,0,4,0
+Jamal Blackman,"Oct 27, 1993 (27)",Goalkeeper,€600k,"Jun 30, 2021","Jul 1, 2014",36,0,0,4,1
+***Nathan Baxter,"Nov 8, 1998 (22)",Goalkeeper,€300k,N/A,N/A
+Willy Caballero,"Sep 28, 1981 (39)",Goalkeeper,€250k,"Jun 30, 2021","Jul 1, 2017",2,0,0,4,1
+***Karlo Ziger,"May 11, 2001 (20)",Goalkeeper,€150k,N/A,N/A
+Kurt Zouma,"Oct 27, 1994 (26)",Defender - Centre-Back,€32.00m,"Aug 28, 2021","Jan 31, 2014",36,5,0,4,1
+Andreas Christensen,"Apr 10, 1996 (25)",Defender - Centre-Back,€30.00m,"Jun 30, 2022","Jul 1, 2015",27,0,0,4,0
+Antonio Rüdiger,"Mar 3, 1993 (28)",Defender - Centre-Back,€28.00m,"Jun 30, 2022,"Jul 9, 2017",34,1,1,4,0
+Fikayo Tomori,"Dec 19, 1997 (23)",Defender - Centre-Back,€28.00m,"Jun 30, 2024","Jul 1, 2017",26,1,0,4,1
+César Azpilicueta,"Aug 28, 1989 (31)",Defender - Centre-Back,€13.00m,"Jun 30, 2023","Aug 24, 2012",43,1,3,4,0
+Thiago Silva,"Sep 22, 1984 (36)",Defender - Centre-Back,€3.00m,"Jun 30, 2024","Aug 28, 2020",34,2,0,4,0
+Jake Clarke-Salter,"Sep 22, 1997 (23)",Defender - Centre-Back,€2.00m,"Jun 30, 2022","Jul 1, 2018",11,0,0,4,0
+Ben Chilwell,"Dec 21, 1996 (24)",Defender - Left-Back,€45.00m,"Jun 30, 2027","Aug 26, 2020",42,4,7,4,0
+Marcos Alonso,"Dec 28, 1990 (30)",Defender - Left-Back,€12.00m,"Sep 1, 2022","Aug 31, 2016",17,2,0,4,0
+Emerson,"Aug 3, 1994 (26)",Defender - Left-Back,€12.00m,"Aug 23, 2022","Jan 30, 2018",15,1,0,4,0
+Reece James,"Dec 8, 1999 (21)",Defender - Right-Back,€40.00m,"Jun 30, 2028","Jul 1, 2019",47,1,5,4,0
+***Tino Livramento,"Nov 12, 2002 (18)",Defender - Right-Back,N/A,N/A,N/A
+N'Golo Kanté,"Mar 29, 1991 (30)",Midfield - Defensive Midfield,€55.00m,"Jun 30, 2023","Jul 16, 2016",48,0,3,4,0
+Jorginho,"Dec 20, 1991 (29)",Midfield - Defensive Midfield,€40.00m,"Jun 30, 2023","Jul 14, 2018",43,8,2,4,0
+Ethan Ampadu,"Sep 14, 2000 (20)",Midfield - Defensive Midfield,€15.00m,"Jun 30, 2024","Jul 1, 2017",29,0,0,4,0
+Billy Gilmour,"Jun 11, 2001 (20)",Midfield - Defensive Midfield,€10.00m,"Jun 30, 2024","Feb 11, 2020",14,1,0,4,0
+Mateo Kovacic,"May 6, 1994 (27)",Midfield - Central Midfield,€45.00m,"Jun 30, 2024","Jul 1, 2019",42,0,2,4,0
+Ross Barkley,"Dec 5, 1993 (27)",Midfield - Central Midfield,€20.00m,"Aug 29, 2022","Jan 5, 2018",27,4,1,4,0
+Ruben Loftus-Cheek,"Jan 23, 1996 (25)",Midfield - Central Midfield,€18.00m,"Jun 30, 2024","Jan 1, 2015",33,1,0,4,0
+***Conor Gallagher,"Feb 6, 2000 (21)",Midfield - Central Midfield,€15.00m,N/A,N/A
+***Lewis Bate,"Oct 28, 2002 (18)",Midfield - Central Midfield,N/A,N/A,N/A
+Mason Mount,"Jan 10, 1999 (22)",Midfield - Attacking Midfield,€75.00m,"Jun 30, 2024","Jul 1, 2019",54,9,9,4,0
+***Tino Anjorin,"Nov 23, 2001 (19)",Midfield - Attacking Midfield,€2.30m,N/A,N/A
+Timo Werner,"Mar 6, 1996 (25)",Attack - Left Winger,€65.00m,"Jun 30, 2025","Jul 1, 2020",52,12,11,4,0
+Callum Hudson-Odoi,"Nov 7, 2000 (20)",Attack - Left Winger,€32.00m,"Jun 30, 2024","Jan 1, 2019",37,5,5,4,0
+Izzy Brown,"Jan 7, 1997 (24)",Attack - Left Winger,€1.60m,"Jun 30, 2021","Jul 1, 2018",21,0,1,4,1
+Charly Musonda Jr.,"Oct 15, 1996 (24)",Attack - Left Winger,€1.00m,"Aug 16, 2022","Jul 1, 2017",0,0,0,4,0
+Christian Pulisic,"Sep 18, 1998 (22)",Attack - Right Winger,€50.00m,"Jun 30, 2024","Jan 2, 2019",43,6,4,4,0
+Hakim Ziyech,"Mar 19, 1993 (28)",Attack - Right Winger,€38.00m,"Jun 30, 2024","Jul 1, 2020",39,6,4,4,0
+Kai Havertz,"Jun 11, 1999 (22)",Attack - Centre-Forward,€70.00m,"Jun 30, 2025","Sep 4, 2020",45,9,6,4,0
+Tammy Abraham,"Oct 2, 1997 (23)",Attack - Centre-Forward,€38.00m,"Jun 30, 2023","Jul 1, 2017",32,12,5,4,1
+Michy Batshuayi,"Oct 2, 1993 (27)",Attack - Centre-Forward,€10.00m,"Jun 30, 2023","Jul 3, 2016",20,2,1,4,0
+Olivier Giroud,"Sep 30, 1986 (34)",Attack - Centre-Forward,€4.00m,"Jun 30, 2022","Jan 31, 2018",31,11,0,4,1
