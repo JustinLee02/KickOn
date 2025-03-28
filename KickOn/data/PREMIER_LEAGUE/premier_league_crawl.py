@@ -146,7 +146,7 @@ def premier_crawl_transfermarkt(url, team_name):
 
 if __name__ == "__main__":
     url_info = {
-        "Liverpool": "https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2020"
+        "Sheffield United": "https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2020"
     }
     for team_name, url in url_info.items():
         premier_crawl_transfermarkt(url, team_name)
