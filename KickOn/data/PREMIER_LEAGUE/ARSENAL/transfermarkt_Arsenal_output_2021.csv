@@ -1,0 +1,43 @@
+Player,Birth,Position,Market Value,Contract Expired,Joined,Appearance,Goals,Assists,Team Rank,Transfer
+Emiliano Martínez,"Sep 2, 1992 (28)",Goalkeeper,€30.00m,"Jun 30, 2029","Sep 16, 2020",37,0,0,5,0
+Bernd Leno,"Mar 4, 1992 (29)",Goalkeeper,€22.00m,"Jun 30, 2023","Jul 1, 2018",8,0,0,5,1
+Mathew Ryan,"Apr 8, 1992 (29)",Goalkeeper,€6.00m,"Aug 9, 2022","Jul 12, 2021",9,0,0,6,1
+Rúnar Alex Rúnarsson,"Feb 18, 1995 (26)",Goalkeeper,€1.50m,"Feb 1, 2024","Sep 21, 2020",20,0,0,5,0
+***Karl Hein,"Apr 13, 2002 (19)",Goalkeeper,€450k,N/A,N/A
+Matt Macey,"Sep 9, 1994 (26)",Goalkeeper,€300k,"May 31, 2023","Jan 8, 2021",44,0,0,20,1
+Dejan Iliev,"Feb 25, 1995 (26)",Goalkeeper,€300k,"Oct 17, 2022","Feb 2, 2022",15,0,0,20,1
+***James Hillson,"Jan 14, 2001 (20)",Goalkeeper,N/A,N/A,N/A
+Arthur Okonkwo,"Sep 9, 2001 (19)",Goalkeeper,€1.2m,"Jun 30, 2024","Jul 1, 2021",7,0,0,5,0
+Gabriel Magalhães,"Dec 19, 1997 (23)",Defender - Centre-Back,€25.00m,"Jun 30, 2027","Sep 1, 2020",39,5,0,5,0
+William Saliba,"Mar 24, 2001 (20)",Defender - Centre-Back,€18.00m,"Jun 30, 2027","Jul 25, 2019",52,0,0,5,0
+Rob Holding,"Sep 20, 1995 (25)",Defender - Centre-Back,€18.00m,"Jun 30, 2024","Jul 22, 2016",21,1,0,5,0
+Calum Chambers,"Jan 20, 1995 (26)",Defender - Centre-Back,€12.00m,"Jun 30, 2024","Jan 27, 2021",16,2,0,14,0
+Pablo Marí,"Aug 31, 1993 (27)",Defender - Centre-Back,€7.00m,"Jun 30, 2024","Jul 1, 2020",18,2,0,5,0
+Sead Kolasinac,"Jun 20, 1993 (28)",Defender - Centre-Back,€6.50m,"Jul 6, 2023","Jan 18, 2022",22,0,1,2,0
+David Luiz,"Apr 22, 1987 (34)",Defender - Centre-Back,€4.00m,"Jan 20, 2025","Sep 1, 2021",47,0,1,20,0
+Shkodran Mustafi,"Apr 17, 1992 (29)",Defender - Centre-Back,€2.50m,"Sep 2, 2021","Jul 1, 2021",12,1,0,20,0
+Kieran Tierney,"Jun 5, 1997 (24)",Defender - Left-Back,€32.00m,"Jun 30, 2025","Aug 8, 2019",25,1,3,5,0
+***Joel López,"Mar 31, 2002 (19)",Defender - Left-Back,N/A,N/A,N/A
+Héctor Bellerín,"Mar 19, 1995 (26)",Defender - Right-Back,€25.00m,"Sep 1, 2022","Jul 1, 2014",32,0,5,5,1
+Ainsley Maitland-Niles,"Aug 29, 1997 (23)",Defender - Right-Back,€16.00m,"Aug 7, 2023","Jul 1, 2017",23,0,1,5,0
+Cédric Soares,"Aug 31, 1991 (29)",Defender - Right-Back,€6.00m,"Jun 30, 2024","Jul 1, 2020",26,1,3,5,0
+Thomas Partey,"Jun 13, 1993 (28)",Midfield - Defensive Midfield,€40.00m,"Jun 30, 2025","Oct 5, 2020",26,2,1,5,0
+Granit Xhaka,"Sep 27, 1992 (28)",Midfield - Defensive Midfield,€22.00m,"Jun 30, 2024","Jul 1, 2016",30,1,2,5,0
+Mohamed Elneny,"Jul 11, 1992 (28)",Midfield - Defensive Midfield,€10.00m,"Jun 30, 2024","Jan 14, 2016",17,0,2,5,0
+Dani Ceballos,"Aug 7, 1996 (24)",Midfield - Central Midfield,€27.00m,"Jun 30, 2027","Jul 14, 2017",18,0,1,1,0
+Joe Willock,"Aug 20, 1999 (21)",Midfield - Central Midfield,€16.00m,"Jun 30, 2027","Aug 13, 2021",31,2,0,11,0
+***Miguel Azeez,"Sep 20, 2002 (18)",Midfield - Central Midfield,€500k,N/A,N/A
+***Ben Cottrell,"Oct 31, 2001 (19)",Midfield - Central Midfield,€200k,N/A,N/A
+***James Olayinka,"Oct 5, 2000 (20)",Midfield - Central Midfield,N/A,N/A,N/A
+Martin Ødegaard,"Dec 17, 1998 (22)",Midfield - Attacking Midfield,€40.00m,"Jun 30, 2028","Aug 20, 2021",40,7,5,5,0
+Emile Smith Rowe,"Jul 28, 2000 (20)",Midfield - Attacking Midfield,€18.00m,"Jun 30, 2026","Aug 1, 2020",37,11,2,5,0
+Gabriel Martinelli,"Jun 18, 2001 (20)",Attack - Left Winger,€22.00m,"Jun 30, 2027","Jul 2, 2019",36,6,6,5,0
+Willian,"Aug 9, 1988 (32)",Attack - Left Winger,€9.00m,"Sep 1, 2022","Aug 30, 2021",36,1,4,20,1
+Bukayo Saka,"Sep 5, 2001 (19)",Attack - Right Winger,€65.00m,"Jun 30, 2027","Jul 1, 2019",43,12,7,5,0
+Nicolas Pépé,"May 29, 1995 (26)",Attack - Right Winger,€35.00m,"Sep 8, 2023","Aug 1, 2019",23,3,6,5,0
+Reiss Nelson,"Dec 10, 1999 (21)",Attack - Right Winger,€9.00m,"Jun 30, 2025","Jul 1, 2019",33,4,7,5,0
+Alexandre Lacazette,"May 28, 1991 (30)",Attack - Centre-Forward,€28.00m,"Jun 30, 2022","Jul 5, 2017",36,6,8,5,1
+Pierre-Emerick Aubameyang,"Jun 18, 1989 (32)",Attack - Centre-Forward,€25.00m,"Jun 30, 2025","Jan 31, 2022",38,20,3,2,1
+Eddie Nketiah,"May 30, 1999 (22)",Attack - Centre-Forward,€16.00m,"Jun 30, 2027","Jan 1, 2019",28,10,1,5,0
+***Folarin Balogun,"Jul 3, 2001 (19)",Attack - Centre-Forward,€4.00m,N/A,N/A
+***Tyreece John-Jules,"Feb 14, 2001 (20)",Attack - Centre-Forward,N/A,N/A,N/A
