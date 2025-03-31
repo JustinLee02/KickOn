@@ -1,0 +1,31 @@
+Player,Birth,Position,Market Value,Contract Expired,Joined,Appearance,Goals,Assists,Team Rank,Transfer
+Emiliano Martínez,"Sep 2, 1992 (28)",Goalkeeper,€30.00m,"Jun 30, 2029","Sep 16, 2020",39,0,0,11,0
+Lovre Kalinic,"Apr 3, 1990 (31)",Goalkeeper,€2.50m,"Jun 30, 2022","Jan 1, 2019",22,0,0,11,0
+Tom Heaton,"Apr 15, 1986 (35)",Goalkeeper,€1.00m,"Jun 30, 2021","Aug 1, 2019",4,0,0,11,1
+Jed Steer,"Sep 23, 1992 (28)",Goalkeeper,€800k,"Jun 30, 2023","Jul 1, 2013",4,0,0,11,0
+Tyrone Mings,"Mar 13, 1993 (28)",Defender - Centre-Back,€30.00m,"Jun 30, 2026","Jul 8, 2019",37,2,2,11,0
+Ezri Konsa,"Oct 23, 1997 (23)",Defender - Centre-Back,€25.00m,"Jun 30, 2028","Jul 11, 2019",37,2,0,11,0
+Kortney Hause,"Jul 16, 1995 (25)",Defender - Centre-Back,€5.00m,"Oct 5, 2020","Aug 7, 2018",2,0,0,20,1
+Björn Engels,"Sep 15, 1994 (26)",Defender - Centre-Back,€3.00m,"Jun 30, 2024","Jul 16, 2019",1,0,0,11,1
+Matt Targett,"Sep 18, 1995 (25)",Defender - Left-Back,€17.00m,"Jun 30, 2025","Jul 1, 2019",38,0,2,11,0
+Neil Taylor,"Feb 7, 1989 (32)",Defender - Left-Back,€1.50m,"Jun 30, 2021","Jan 31, 2017",4,0,1,11,1
+Matty Cash,"Aug 7, 1997 (23)",Defender - Right-Back,€22.00m,"Jun 30, 2027","Sep 3, 2020",28,0,2,11,0
+Frédéric Guilbert,"Dec 24, 1994 (26)",Defender - Right-Back,€6.00m,"Jan 17, 2023","Jan 31, 2019",17,1,4,11,0
+Ahmed El Mohamady,"Sep 9, 1987 (33)",Defender - Right-Back,€1.50m,"Jun 30, 2021","Jul 19, 2017",17,0,0,11,0
+Marvelous Nakamba,"Jan 19, 1994 (27)",Midfield - Defensive Midfield,€7.00m,"Jun 30, 2024","Aug 1, 2019",16,0,0,11,0
+Douglas Luiz,"May 9, 1998 (23)",Midfield - Central Midfield,€35.00m,"Jun 30, 2026","Jul 25, 2019",34,0,3,11,0
+John McGinn,"Oct 18, 1994 (26)",Midfield - Central Midfield,€30.00m,"Jun 30, 2027","Aug 8, 2018",37,3,5,11,0
+Ross Barkley,"Dec 5, 1993 (27)",Midfield - Central Midfield,€20.00m,"Aug 29, 2022","Jan 5, 201827",4,1,4,0
+Morgan Sanson,"Aug 18, 1994 (26)",Midfield - Central Midfield,€16.00m,"Jun 30, 2024","Jan 26, 2021",28,2,3,11,0
+Conor Hourihane,"Feb 2, 1991 (30)",Midfield - Central Midfield,€3.50m,"Jun 30, 2022","Jan 26, 2017",29,6,3,11,0
+Henri Lansbury,"Oct 12, 1990 (30)",Midfield - Central Midfield,€1.00m,"Jun 30, 2021","Jan 29, 2021",20,1,2,20,1
+Jacob Ramsey,"May 28, 2001 (20)",Midfield - Left Midfield,€32.00m,"Jun 30, 2027","Jul 1, 2020",27,0,1,11,0
+Jack Grealish,"Sep 10, 1995 (25)",Attack - Left Winger,€65.00m,"Jun 30, 2025","Jul 1, 2013",27,7,10,11,1
+Mahmoud Trezeguet,"Oct 1, 1994 (26)",Attack - Left Winger,€10.00m,"Jun 30, 2023","Jul 24, 2019",22,2,2,11,0
+Bertrand Traoré,"Sep 6, 1995 (25)",Attack - Right Winger,€20.00m,"Feb 1, 2024","Sep 19, 2020",38,8,6,11,0
+Anwar El Ghazi,"May 3, 1995 (26)",Attack - Right Winger,€13.00m,"Jun 30, 2023","Jul 1, 2019",31,11,0,11,0
+Jota Peleteiro,"Jun 16, 1991 (30)",Attack - Right Winger,€1.80m,"Jun 30, 2021","Oct 4, 2020",27,0,2,16,0
+Ollie Watkins,"Dec 30, 1995 (25)",Attack - Centre-Forward,€32.00m,"Jun 30, 2028","Sep 9, 2020",40,16,5,11,0
+Wesley Moraes,"Nov 24, 1996 (24)",Attack - Centre-Forward,€13.00m,"Jul 28, 2023","Jul 1, 2019",5,0,0,11,0
+Ally Samatta,"Dec 23, 1992 (28)",Attack - Centre-Forward,€4.20m,"Jun 30, 2024","Jan 20, 2020",30,6,0,11,1
+Keinan Davis,"Feb 13, 1998 (23)",Attack - Centre-Forward,€3.00m,"Jun 30, 2024","Jul 1, 2017",18,2,2,11,0

@@ -1,0 +1,34 @@
+Player,Birth,Position,Market Value,Contract Expired,Joined,Appearance,Goals,Assists,Team Rank,Transfer
+Dean Henderson,"Mar 12, 1997 (24)",Goalkeeper,€22.00m,"Jun 30, 2025","Aug 1, 2020",20,0,0,3,1
+David de Gea,"Nov 7, 1990 (30)",Goalkeeper,€18.00m,"Jun 30, 2023","Jul 1, 2011",58,0,0,3,0
+Sergio Romero,"Feb 22, 1987 (34)",Goalkeeper,€1.00m,"Dec 31, 2025","Aug 8, 2022",49,0,0,20,0
+Joel Pereira,"Jun 28, 1996 (25)",Goalkeeper,€300k,"Jun 30, 2023","Jul 7, 2021",3,0,0,20,1
+Harry Maguire,"Mar 5, 1993 (28)",Defender - Centre-Back,€45.00m,"Jun 30, 2026","Aug 5, 2019",31,0,0,3,0
+Victor Lindelöf,"Jul 17, 1994 (26)",Defender - Centre-Back,€24.00m,"Jun 30, 2025","Jul 1, 2017",35,0,0,3,0
+Eric Bailly,"Apr 12, 1994 (27)",Defender - Centre-Back,€15.00m,"Sep 4, 2023","Jul 1, 2016",23,0,0,3,1
+Phil Jones,"Feb 21, 1992 (29)",Defender - Centre-Back,€5.00m,"Jun 30, 2023","Jul 1, 2011",0,0,0,3,0
+Teden Mengi,"Apr 30, 2002 (19)",Defender - Centre-Back,€1.50m,"Jun 30, 2024","Jul 1, 2020",7,0,0,3,1
+Luke Shaw,"Jul 12, 1995 (25)",Defender - Left-Back,€35.00m,"Jun 30, 207","Jul 1, 2014",47,1,6,3,0
+Alex Telles,"Dec 15, 1992 (28)",Defender - Left-Back,€20.00m,"Jun 30, 2024","Oct 5, 2020",38,0,3,3,1
+Brandon Williams,"Sep 3, 2000 (20)",Defender - Left-Back,€10.00m,"Jun 30, 2024","Jul 1, 2019",5,0,0,3,0
+Aaron Wan-Bissaka,"Nov 26, 1997 (23)",Defender - Right-Back,€40.00m,"Jun 30, 2025","Jul 1, 2019",34,0,1,3,0
+Diogo Dalot,"Mar 18, 1999 (22)",Defender - Right-Back,€10.00m,"Jun 30, 2028","Jul 1, 2018",42,2,2,3,0
+Axel Tuanzebe,"Nov 14, 1997 (23)",Defender - Right-Back,€8.00m,"Jun 30, 2023","Jan 1, 2017",5,0,0,3,1
+Timothy Fosu-Mensah,"Jan 2, 1998 (23)",Defender - Right-Back,€4.00m,"Jun 30, 2024","Jan 13, 2021",15,0,0,6,0
+Nemanja Matic,"Aug 1, 1988 (32)",Midfield - Defensive Midfield,€8.00m,"Jun 30, 2024","Jul 1, 2022",50,2,3,6,1
+Paul Pogba,"Mar 15, 1993 (28)",Midfield - Central Midfield,€60.00m,"Dec 1, 2024","Jul 11, 2022",10,0,1,7,0
+Scott McTominay,"Dec 8, 1996 (24)",Midfield - Central Midfield,€35.00m,"Jun 30, 2025","Jul 1, 2017",39,3,1,3,0
+Donny van de Beek,"Apr 18, 1997 (24)",Midfield - Central Midfield,€30.00m,"Jun 30, 2024","Sep 2, 2020",10,0,0,3,0
+Fred,"Mar 5, 1993 (28)",Midfield - Central Midfield,€22.00m,"Jun 30, 2024","Jul 1, 2018",56,6,6,3,1
+Bruno Fernandes,"Sep 8, 1994 (26)",Midfield - Attacking Midfield,€90.00m,"Jun 30, 2027","Jan 29, 2020",59,14,14,3,0
+Jesse Lingard,"Dec 15, 1992 (28)",Midfield - Attacking Midfield,€22.00m,"Jun 30, 2023","Jul 21, 2022",20,2,2,16,1
+Juan Mata,"Apr 28, 1988 (33)",Midfield - Attacking Midfield,€4.00m,"Sep 3, 2023","Sep 8, 2022",19,3,2,20,1
+Hannibal,"Jan 21, 2003 (18)",Midfield - Attacking Midfield,€3.00m,"Jun 30, 2025","Jul 1, 2022",41,1,6,3,0
+Marcus Rashford,"Oct 31, 1997 (23)",Attack - Left Winger,€85.00m,"Jun 30, 2028","Jan 1, 2016",56,30,10,3,0
+Mason Greenwood,"Oct 1, 2001 (19)",Attack - Right Winger,€50.00m,"Jun 30, 2025","Jul 1, 2019",0,0,0,3,0
+Amad Diallo,"Jul 11, 2002 (18)",Attack - Right Winger,€18.00m,"Jun 30, 2030","Jan 2, 2021",43,14,4,3,0
+Daniel James,"Nov 10, 1997 (23)",Attack - Right Winger,€18.00m,"Jun 30, 2026","Aug 31, 2021",29,3,2,20,0
+Facundo Pellistri,"Dec 20, 2001 (19)",Attack - Right Winger,€6.00m,"Jun 30, 2025","Oct 5, 2020",11,0,1,3,0
+Anthony Elanga,"Apr 27, 2002 (19)",Attack - Right Winger,€800k,"Jun 30, 2026","Jan 1, 2022",26,0,2,3,1
+Anthony Martial,"Dec 5, 1995 (25)",Attack - Centre-Forward,€45.00m,"Jun 30, 2024","Sep 1, 2015",29,9,3,3,0
+Edinson Cavani,"Feb 14, 1987 (34)",Attack - Centre-Forward,€6.00m,"Jul 29, 2023","Aug 29, 2022",44,10,2,16,1
